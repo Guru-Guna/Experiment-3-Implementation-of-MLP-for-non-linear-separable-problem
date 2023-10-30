@@ -41,8 +41,8 @@ Step 4 : Test for the XOR patterns.
 
 **PROGRAM :** 
 ```
-NAME : Akash A
-REG NO: 212221230003
+NAME : Gunaseelan G 
+REG NO: 212221230031
 ```
 ```
 import numpy as np
